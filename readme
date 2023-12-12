@@ -1,8 +1,8 @@
-#Consumer Loan Assistant
+# Consumer Loan Assistant
 
-Project Overview
+**Project Overview**
 
-Problem Statement: Ever wonder how much those credit card accounts are costing you?
+**Problem Statement**: Ever wonder how much those credit card accounts are costing you?
 
 Abstract: The Consumer Loan Assistant Project (Project542) addresses the need to manage consumer debt efficiently. This project enables users to calculate payments and loan terms based on balance and interest information. It emphasizes focus traversal among controls, input validation, and user feedback through message boxes.
 
